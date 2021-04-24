@@ -1,0 +1,12 @@
+Resulados del Electrocardiograma:
+Nombre del Paciente:   Christian
+Apellido del Paciente: Escalada
+Sexo del Paciente:     Masculino
+Edad del Paciente:     32 años
+Peso del Paciente:     78 kilos
+Frecuancia Cardiaca del Paciente: 54 pulsaciones por minuto,
+el Electrocardiograma fue tomado mientras el paciente dormía.
+Frecuencia Cardiaca Máxima: 193 pulsaciones por minuto.
+Desarrollado por: Electrocardiograma.py
+¡Muchas Gracias por utilizar Este Programa!
+¡Que tenga un Buen Día!.
