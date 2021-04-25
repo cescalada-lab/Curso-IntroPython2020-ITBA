@@ -1,0 +1,12 @@
+Resulados del Electrocardiograma:
+Nombre del Paciente: Laura Del Valle
+Apellido del Paciente: Diaz
+Sexo: Femenino
+Edad: 28 años
+Peso: 68 kilos
+Frecuancia Cardiaca del Paciente: 54 pulsaciones por minuto,
+el Electrocardiograma fue tomado mientras el paciente dormía.
+Frecuencia Cardiaca Máxima: 195 pulsaciones por minuto.
+Desarrollado por: Electrocardiograma.py
+¡Muchas Gracias por utilizar Nuestros Servicios!
+¡Que tenga un Buen Día!.
